@@ -40,6 +40,11 @@ button:hover {
     color: #ff88bb;
 }
 
+.highlight {
+    color: #ff6699;
+    font-weight: bold;
+}
+
 @keyframes fadeIn {
     0% {
         opacity: 0;
